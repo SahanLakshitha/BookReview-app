@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatToRead</string>
+    <string name="Catagory">Catagory :</string>
+    <string name="Auther">Auther :</string>
+    <string name="share" />
+    <string name="auther">Auther</string>
+
+    <string-array name="items">
+        <item>Edit Post</item>
+        <item>Delete Post</item>
+    </string-array>
+</resources>
